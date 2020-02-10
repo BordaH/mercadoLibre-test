@@ -1,0 +1,32 @@
+
+     AMBA: cant.de envios 40000
+     Bs As: cant.de envios 50000
+     Resto: cant.de envios 60000
+
+1- El costo total con cada carrie es:
+
+    Carrie 1):
+        -AMBA: el costo final sería (10*40000) 400.000
+        -Bs As: el costo final sería (20*50000) 1.000.000
+        -Resto:el costo final sería (50*60000) 3.000.000
+
+    Carrie 2):
+        -AMBA: el costo sería (15*40000) 600.000
+        -Bs As: costo final sería (19*50000) 950.000
+        -Resto: el costo final sería (55*60000) 3.300.000
+
+    Carrie 3):
+        -AMBA: el costo final sería (20*40000) 800.000
+
+
+ La query que utilicé:
+
+    select car.carrierID, car.name, cante.zona, SUM(cts.costo* cnte.cantidad_de_envios) as costo_total
+    from carrier car
+    join costos cts
+    join cantidad_de_envios cnte
+    on car.carrierID=cts.carrierID
+    and cts.zona = cnte.zona
+    where car.carrierID = INSERTAR_CARRIER_ID
+    and cnte.mes = '1'
+

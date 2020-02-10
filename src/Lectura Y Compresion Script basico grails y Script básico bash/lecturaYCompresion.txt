@@ -1,0 +1,24 @@
+1- el siguiente script devuelve como output datos de un Envio, en este caso la sucursal, la fecha y la descripcion.
+
+    import me.*;
+    def upsPullTrkService = ctx.getBean('upsPullTrkService')
+    def s = Shipment.get(27528954729)
+    def tn = s.trackingNumber
+    def trackingData = upsPullTrkService.getTrkEvents([tn])
+    trackingData.each { td ->
+    println "------------------------------------------------"
+    println "${td.sucursal} - ${td.eventDate} - ${td.description}"
+    }
+    "Done"
+
+
+2- Lo que se obtiene como output, del siguiente script, es imprimir las diferentes preferencias de envios que tiene un usuario.
+
+#!/bin/bash   ------>inicio del script bash
+users_id=(71665538 66146765 132961968 15096445 172753273 54152646) ------> lista de ids de usuarios
+for users_id in ${users_id[*]} ------> inicia el loop for
+do  ------> hacer por cada id, lo siguiente
+curl=$(curl -s "api.mercadolibre.com/users/$users_id/shipping_preferences" | jq -c ---> utiliza curl para realizar una llamada a la api de mercado libre con el user_id
+'.services')
+echo "$users_id: $curl" ------> imprime el resultado del request realizado
+done ------>termina loop
