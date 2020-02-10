@@ -1,0 +1,251 @@
+ID DEL ITEM: MLA609714710
+ NOMBRE DEL ITEM:Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc
+ CATEGORIA ID:MLA1720
+ NOMBRES CATEGORIAS:good_quality_picture,good_quality_thumbnail,brand_verified,dragged_bids_and_visits,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA609550688
+ NOMBRE DEL ITEM:Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años
+ CATEGORIA ID:MLA1720
+ NOMBRES CATEGORIAS:brand_verified,dragged_bids_and_visits,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA723727507
+ NOMBRE DEL ITEM:Notebook Dell I3 7020u 8gb 1tb + Ssd 480gb Win10 En Cuotas
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,ahora-12,immediate_payment
+************************************************
+ID DEL ITEM: MLA701426348
+ NOMBRE DEL ITEM:Notebook Laptop I3 Dell Inspiron 8gb 1tb 14  Win 10 Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Gamer
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,immediate_payment
+************************************************
+ID DEL ITEM: MLA812460317
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron 3481 I3 8gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Ram
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment
+************************************************
+ID DEL ITEM: MLA677347202
+ NOMBRE DEL ITEM:Notebook Dell Inspiron I3 8g 1tb + Ssd 240gb Win10 En Cuotas
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,ahora-12,brand_verified,immediate_payment
+************************************************
+ID DEL ITEM: MLA677347584
+ NOMBRE DEL ITEM:Notebook Dell Inspiron I3 8gb 1tb 14 Win 10 Teclado Con Ñ Garantia De Tienda Oficial - Factura A Y B Ram
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA673585449
+ NOMBRE DEL ITEM:Notebook Dell I3 4gb 1tb Windows 10
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,immediate_payment
+************************************************
+ID DEL ITEM: MLA824013455
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron 3481 I3 8gb 1tb Ssd 240 14 Ubu
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,ahora-12,immediate_payment
+************************************************
+ID DEL ITEM: MLA830190937
+ NOMBRE DEL ITEM:Notebook Lapto Dell I3 16gb 1tb + Ssd 480gb Win10 Oferta
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA677239433
+ NOMBRE DEL ITEM:Notebook Dell Inspiron I3 4gb 1tb 14 Windows 10
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment
+************************************************
+ID DEL ITEM: MLA677344596
+ NOMBRE DEL ITEM: Notebook Dell Inspiron I3 7020u 8gb 1tb + Ssd 480gb Win10 
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA818935353
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron 3481 I3 12gb 1tb 14 Ubuntu
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,immediate_payment
+************************************************
+ID DEL ITEM: MLA812459645
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron 3481 I3 4gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment
+************************************************
+ID DEL ITEM: MLA683737338
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I3 4gb 1tb 14 Win 10 Teclado Con Ñ Garantia De Tienda Oficial - Factura A Y B
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,brand_verified,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA815134739
+ NOMBRE DEL ITEM:Notebook Dell Inspiron I5 16gb + 240ssd 1tb Win 10 Oferta
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment
+************************************************
+ID DEL ITEM: MLA673439392
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I3 4gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA827643947
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron 3481 I3 8gb 1tb Ssd 240 14 Ubu
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,brand_verified,extended_warranty_eligible,good_quality_picture,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA731364718
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I5 8gb 256ssd + 1tb Win 10
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA663213659
+ NOMBRE DEL ITEM:Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA677341801
+ NOMBRE DEL ITEM:Notebook Dell Inspiron 5584 I5 16g 2t Win 10 Gforce Ram - Ideal Para Juegos Y Diseño
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,brand_verified,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA689122291
+ NOMBRE DEL ITEM:Notebook Dell I5 8gb 1tb + Ssd Windows 10
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA799461485
+ NOMBRE DEL ITEM:Notebook Dell Inspiron I7 256ssd 8g 13,3fhd Geforce Win10 
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,brand_verified,good_quality_picture,immediate_payment
+************************************************
+ID DEL ITEM: MLA663219035
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I5 8g 1tb Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Oferta
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,brand_verified,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA814166024
+ NOMBRE DEL ITEM:Notebook Dell Inspiron I7 256ssd 8gb 15.6 W10 Gforce Oferta
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,brand_verified,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA636238020
+ NOMBRE DEL ITEM:Impresora Laser Lexmark Mb2338adw Wi Fi Fotocopiadora Mx317
+ CATEGORIA ID:MLA1676
+ NOMBRES CATEGORIAS:good_quality_picture,good_quality_thumbnail,ahora-12,brand_verified,extended_warranty_eligible,immediate_payment
+************************************************
+ID DEL ITEM: MLA609116302
+ NOMBRE DEL ITEM:Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer
+ CATEGORIA ID:MLA1720
+ NOMBRES CATEGORIAS:brand_verified,dragged_bids_and_visits,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA762122266
+ NOMBRE DEL ITEM:Dock Universal Dell D6000 Usb A 3.0 Tipo C Hdmi Display Port
+ CATEGORIA ID:MLA3581
+ NOMBRES CATEGORIAS:good_quality_thumbnail,brand_verified,good_quality_picture,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA680918722
+ NOMBRE DEL ITEM:Notebook Dell Inspiron I5 16gb 256ssd Win 10 Gforce Oferta
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA774445312
+ NOMBRE DEL ITEM:Xbox Live Gold De 12 Meses / 1 Año Xbox One / 360 Global
+ CATEGORIA ID:MLA72958
+ NOMBRES CATEGORIAS:brand_verified,good_quality_picture,good_quality_thumbnail,immediate_payment
+************************************************
+ID DEL ITEM: MLA814430760
+ NOMBRE DEL ITEM:Notebook Dell Inspiron I7 256ssd 8g 15.6 W10 Gf Ram Cuotas
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:ahora-12,brand_verified,good_quality_picture,good_quality_thumbnail,immediate_payment
+************************************************
+ID DEL ITEM: MLA812489388
+ NOMBRE DEL ITEM:Notebook I5 Dell Vostro 14 4gb 1tb Win 10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_picture,good_quality_thumbnail,ahora-12,brand_verified,extended_warranty_eligible,immediate_payment
+************************************************
+ID DEL ITEM: MLA823737695
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I5 8g 1tb Win 10 Cuotas
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,immediate_payment
+************************************************
+ID DEL ITEM: MLA750022702
+ NOMBRE DEL ITEM:Notebook Dell Latitude I7 8650u 8gb 1tb 14 Win10p
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_picture,good_quality_thumbnail,brand_verified,extended_warranty_eligible,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA732866335
+ NOMBRE DEL ITEM:Licencia Windows 10 Home 64bits Original Coem Oferta - Actualiza Tu Equipo - Ideal Para Hogar
+ CATEGORIA ID:MLA1737
+ NOMBRES CATEGORIAS:good_quality_thumbnail,brand_verified,good_quality_picture,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA677346308
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I3 8gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Ram
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,brand_verified,extended_warranty_eligible,good_quality_picture,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA724377042
+ NOMBRE DEL ITEM:Servidor Poweredge Dell T30 Intel Xeon E3-1225v5 8gb 1tb Hd Ideal Para Empresa Con Garantia Oficial - Factura A B
+ CATEGORIA ID:MLA1649
+ NOMBRES CATEGORIAS:good_quality_picture,good_quality_thumbnail,brand_verified,extended_warranty_eligible,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA681788699
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I5 8g 1tb Win 10 Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Oferta
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,brand_verified,extended_warranty_eligible,good_quality_picture,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA614270244
+ NOMBRE DEL ITEM:Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años
+ CATEGORIA ID:MLA1720
+ NOMBRES CATEGORIAS:brand_verified,dragged_bids_and_visits,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA828343368
+ NOMBRE DEL ITEM:Notebook Dell Latitude 5490 I7 8650u 16gb 1tb 14 Win10p
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_thumbnail,ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,immediate_payment
+************************************************
+ID DEL ITEM: MLA833705652
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I5 10g 16g 256gb Win10 Ram
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:good_quality_picture,good_quality_thumbnail,brand_verified,extended_warranty_eligible,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA693163642
+ NOMBRE DEL ITEM:Notebook Dell I5 16gb 1tb + Ssd Windows 10
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment
+************************************************
+ID DEL ITEM: MLA766892457
+ NOMBRE DEL ITEM:Dock Universal Dell Da300 Usb A 3.0 Tipo C Hdmi Display Port
+ CATEGORIA ID:MLA3581
+ NOMBRES CATEGORIAS:brand_verified,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA696009826
+ NOMBRE DEL ITEM:Ups Apc 1000va Online Tower Gtia 2 Años
+ CATEGORIA ID:MLA1720
+ NOMBRES CATEGORIAS:brand_verified,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA723669753
+ NOMBRE DEL ITEM:Notebook Laptop Dell Inspiron I3 16gb 1tb 15,6 Fhd Win 10 Teclado Ñ Gtia Tienda Oficial - Factura A Y B Ram
+ CATEGORIA ID:MLA1652
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA795525213
+ NOMBRE DEL ITEM:Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años
+ CATEGORIA ID:MLA1720
+ NOMBRES CATEGORIAS:good_quality_thumbnail,brand_verified,good_quality_picture,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA619999038
+ NOMBRE DEL ITEM:Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia
+ CATEGORIA ID:MLA1720
+ NOMBRES CATEGORIAS:brand_verified,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA636240066
+ NOMBRE DEL ITEM:Impresora Multifuncion Láser Lexmark Mb2546adwe Rempl. Mx517
+ CATEGORIA ID:MLA1676
+ NOMBRES CATEGORIAS:ahora-12,brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment
+************************************************
+ID DEL ITEM: MLA745149901
+ NOMBRE DEL ITEM:Servidor Poweredge Dell T30 Xeon E3 16gb 1tb Free Dos
+ CATEGORIA ID:MLA1649
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,immediate_payment,cart_eligible
+************************************************
+ID DEL ITEM: MLA701543192
+ NOMBRE DEL ITEM:Servidor Poweredge Dell T30 Xeon E3-1225v5 16gb 1tb Oferta
+ CATEGORIA ID:MLA1649
+ NOMBRES CATEGORIAS:brand_verified,extended_warranty_eligible,good_quality_picture,good_quality_thumbnail,ahora-12,immediate_payment
+************************************************
+
